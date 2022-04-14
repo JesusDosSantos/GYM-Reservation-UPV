@@ -1,1 +1,2 @@
 # GYM-Reservation-UPV
+This app automatically reserves all predetermined spots available from the Universidad Politecnica de Valencia's Gym. I created this program to help a friend so that he doesn't have to wake up early every Saturday to reserve his spots on the university's web page. I made it into a .exe application, and he downloaded it. Lastly, through Window's Task Scheduler, Windows executes the program every Saturday at 10am. 
